@@ -12,8 +12,8 @@ Me gusta aprender, montar equipos, solucionar problemas y entender cómo funcion
 ## 🛠️ Tecnologías que manejo / estoy aprendiendo
 - **Sistemas Operativos:** Windows, Linux (Ubuntu/Debian)
 - **Redes:** TCP/IP, DNS, DHCP, topologías básicas
-- **Programación:** Python (básico), Bash, PowerShell
-- **Hardware:** Montaje, diagnóstico y mantenimiento de equipos
+- **Programación:** Python (básico)
+- **Hardware:** Montaje y mantenimiento de equipos
 - **Web:** HTML, CSS
 
 ## 🛠️ Tecnologías y Herramientas
