@@ -17,9 +17,34 @@ Me gusta aprender, montar equipos, solucionar problemas y entender cómo funcion
 - 
 ### 🛠️ Tecnologías
 
-### Tecnologías
+## 🛠️ Tecnologías y Herramientas
 
-![HTML5](https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+<p align="left">
+
+  <!-- Lenguajes -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python"/>
+
+  <!-- IDEs / Editores -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" alt="VS Code"/>
+
+  <!-- CMS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="50" alt="WordPress"/>
+
+  <!-- Sistemas Operativos -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50" alt="Windows"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" alt="Linux"/>
+
+  <!-- Git / GitHub -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git"/>
+
+  <!-- Inteligencia Artificial -->
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg" width="50" alt="IA / OpenAI"/>
+
+  <!-- Hardware (no existe icono oficial, pero usamos uno estilo chip) -->
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/intel.svg" width="50" alt="Hardware"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/amd.svg" width="50" alt="Hardware"/>
+
+</p>
