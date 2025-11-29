@@ -31,6 +31,15 @@ Me gusta aprender, montar equipos, solucionar problemas y entender cómo funcion
 ![Intel](https://img.shields.io/badge/Intel-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 
 
+## 🖼️ Proyectos Destacados
+
+| Primer Proyecto
+| ![HTML5 + CSS]([https://via.placeholder.com/300x200?text=Proyecto+HTML5+CSS](https://jordiz1234.github.io/miniproject2/))
+| Primer proyecto utilizando **HTML5 y CSS**
+
+
+
+
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">CONTACTA CONMIGO</h2></summary>
