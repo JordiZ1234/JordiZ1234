@@ -34,8 +34,9 @@ Me gusta aprender, montar equipos, solucionar problemas y entender cómo funcion
 ## 🖼️ Proyectos Destacados
 
 | HTML5 + CSS[https://jordiz1234.github.io/miniproject2/]
-| Primer proyecto utilizando **HTML5 y CSS**
-
+| Primer proyecto utilizando **HTML5 y CSS**, este proyecto consiste inicialmente en escoger 11 jugadores de futbol, ponerlos en la pagina principal, al hacer click en cada uno de los jugadores nos enviara a otra pagina donde saldra una imagen, un video y una mini descripción general del jugador. Este proyecto ha sido principalmente para aprender las bases del CSS
+| HTML5 + CSS[https://jordiz1234.github.io/templatejordizalkaliani/]
+| Una vez aprendi a usar las bases del CSS y HTML5 me dispuse a hacer el segundo proyecto, este consistia en calcar una plantilla cualquiera de google en codigo, gracias a este proyecto aprendi a utilizar y manjear mejor los margenes
 
 
 
