@@ -1,4 +1,4 @@
-![Texto alternativo](tecnologia.jpg)
+
 ## Jordi Zalkaliani Profile
 # 🧑‍💻 Estudiante de SMX | Perfil Tecnológico
 
