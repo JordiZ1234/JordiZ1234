@@ -33,8 +33,7 @@ Me gusta aprender, montar equipos, solucionar problemas y entender cómo funcion
 
 ## 🖼️ Proyectos Destacados
 
-| Primer Proyecto
-| ![HTML5 + CSS]([https://via.placeholder.com/300x200?text=Proyecto+HTML5+CSS](https://jordiz1234.github.io/miniproject2/))
+| ![HTML5 + CSS]((https://jordiz1234.github.io/miniproject2/))
 | Primer proyecto utilizando **HTML5 y CSS**
 
 
